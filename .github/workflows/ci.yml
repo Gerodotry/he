@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master 
-      - main
+      - main.py
 permissions:
   contents: write
 jobs:
